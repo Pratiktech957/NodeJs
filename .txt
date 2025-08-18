@@ -1,0 +1,5 @@
+Node.js = JavaScript runtime outside the browser.
+
+Built on Chrome’s V8 engine.
+
+Used for building servers, APIs, real-time apps, etc.
