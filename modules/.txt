@@ -1,0 +1,9 @@
+2. Node.js Modules
+
+There are 3 types:
+
+Built-in modules (fs, http, path, os, etc.)
+
+Custom modules (your own files)
+
+Third-party modules (via npm)
